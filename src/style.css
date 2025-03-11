@@ -4,7 +4,7 @@ body {
 
 .container {
   margin: 80px 50px 80px 450px;
-  max-width: 600px;
+  max-width: 800px;
 }
 
 a {
@@ -56,10 +56,10 @@ form {
 }
 
 .movie-script {
-  font-size: 14px;
+  font-size: 12px;
   font-family: "Courier Prime", monospace;
   background-color: rgba(250, 249, 241, 0.8);
-  padding: 28px;
+  padding: 20px;
   line-height: 2x;
   border-left: 3px solid rgba(222, 168, 90);
 }
