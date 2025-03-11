@@ -1,0 +1,73 @@
+body {
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/159/875/original/composition-cinema-elements-pink-background-with-copy-space.jpg?1741702501);
+}
+
+.container {
+  margin: 80px 50px 80px 450px;
+  max-width: 600px;
+}
+
+a {
+  color: rgba(222, 168, 90);
+  font-weight: 600px;
+  text-decoration: none;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 38px;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+  text-align: center;
+}
+
+form {
+  padding: 30px;
+  background-color: rgba(250, 249, 241, 0.2);
+  border-radius: 10px;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.subject {
+  padding: 16px;
+  border: 1px solid rgba(245, 203, 214);
+  width: 80%;
+  background-color: rgba(250, 249, 241);
+  font-size: 14px;
+  font-family: "Courier Prime", monospace;
+  border-radius: 50px;
+  line-height: 20px;
+}
+
+.submit-button {
+  margin-left: 10px;
+  font-family: "Courier Prime", monospace;
+  background-color: rgba(250, 249, 241);
+  border: none;
+  width: 150px;
+  border: 1px solid rgba(245, 203, 214);
+  border-radius: 50px;
+  padding: 14px 24px;
+}
+
+.movie-script {
+  font-size: 14px;
+  font-family: "Courier Prime", monospace;
+  background-color: rgba(250, 249, 241, 0.8);
+  padding: 28px;
+  line-height: 2x;
+  border-left: 3px solid rgba(222, 168, 90);
+}
+
+footer {
+  text-align: center;
+  color: #faf9f1;
+  font-size: 14px;
+  font-weight: 600px;
+  margin-top: 30px;
+}
